@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Sifat</h1>
 <h3 align="center">👑 MERN Stack Web Developer
-🖊️ Love To Write Code
-✒ Passoniate About Learning
-💕 Love to share my knowledge</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsifat54&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsifat54" /> </p>
 
