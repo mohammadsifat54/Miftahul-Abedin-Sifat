@@ -1,13 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Sifat</h1>
-<h3 align="center">A passionate developer and learner from Bangladesh</h3>
+<h3 align="center">👑 MERN Stack Web Developer
+🖊️ Love To Write Code
+✒ Passoniate About Learning
+💕 Love to share my knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsifat54&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsifat54" /> </p>
 
 - 🔭 I’m currently working on **personal web development projects**
 - 🌱 I’m learning **React, Node.js, and C++**
 - 👨‍💻 My GitHub: [github.com/mohammadsifat54](https://github.com/mohammadsifat54)
-- 📫 Reach me at: **mohammadsifat54@gmail.com**
+- 📫 Reach me at: **mohammadsifat789@gmail.com**
+
+---
+
+### 🧑‍💻 About Me
+
+Miftahul Abedin Sifat
+I am a passionate Computer Science and Technology student, currently in my second year of study. With one year of hands-on experience in web development, I have been involved in designing and developing websites using the MERN Stack for course assignments and projects. Alongside my studies, I am also working as a freelancer, enhancing my skills and gaining valuable experience in various areas of web development. I am now looking for a web development job to further improve my expertise and contribute to real-world projects. Outside of my professional and academic life, I enjoy spending time with friends and indulging in recreational activities like playing games.
 
 ---
 
